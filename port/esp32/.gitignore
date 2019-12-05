@@ -31,6 +31,7 @@ spp_streamer
 spp_streamer_client
 template/sdkconfig.old
 create_examples.pyc
-example/
+example/*
+!wiimote_mouse_demo
 template/build/
 sdkconfig_*
